@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\exsamTesting\solution05\bin\Debug\netcoreapp3.1\solution05.exe
+C:\Users\ray_m\source\repos\exsamTesting\solution05\bin\Debug\netcoreapp3.1\solution05.deps.json
+C:\Users\ray_m\source\repos\exsamTesting\solution05\bin\Debug\netcoreapp3.1\solution05.runtimeconfig.json
+C:\Users\ray_m\source\repos\exsamTesting\solution05\bin\Debug\netcoreapp3.1\solution05.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\exsamTesting\solution05\bin\Debug\netcoreapp3.1\solution05.dll
+C:\Users\ray_m\source\repos\exsamTesting\solution05\bin\Debug\netcoreapp3.1\solution05.pdb
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.dll
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.pdb
+C:\Users\ray_m\source\repos\exsamTesting\solution05\obj\Debug\netcoreapp3.1\solution05.genruntimeconfig.cache

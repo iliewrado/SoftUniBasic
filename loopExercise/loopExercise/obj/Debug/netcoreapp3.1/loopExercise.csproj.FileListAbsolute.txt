@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\bin\Debug\netcoreapp3.1\loopExercise.exe
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\bin\Debug\netcoreapp3.1\loopExercise.deps.json
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\bin\Debug\netcoreapp3.1\loopExercise.runtimeconfig.json
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\bin\Debug\netcoreapp3.1\loopExercise.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\bin\Debug\netcoreapp3.1\loopExercise.dll
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\bin\Debug\netcoreapp3.1\loopExercise.pdb
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.dll
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.pdb
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\loopExercise\loopExercise\obj\Debug\netcoreapp3.1\loopExercise.csprojAssemblyReference.cache

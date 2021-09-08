@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\vacation\vacation\bin\Debug\netcoreapp3.1\vacation.exe
+C:\Users\ray_m\source\repos\vacation\vacation\bin\Debug\netcoreapp3.1\vacation.deps.json
+C:\Users\ray_m\source\repos\vacation\vacation\bin\Debug\netcoreapp3.1\vacation.runtimeconfig.json
+C:\Users\ray_m\source\repos\vacation\vacation\bin\Debug\netcoreapp3.1\vacation.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\vacation\vacation\bin\Debug\netcoreapp3.1\vacation.dll
+C:\Users\ray_m\source\repos\vacation\vacation\bin\Debug\netcoreapp3.1\vacation.pdb
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.dll
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.pdb
+C:\Users\ray_m\source\repos\vacation\vacation\obj\Debug\netcoreapp3.1\vacation.genruntimeconfig.cache

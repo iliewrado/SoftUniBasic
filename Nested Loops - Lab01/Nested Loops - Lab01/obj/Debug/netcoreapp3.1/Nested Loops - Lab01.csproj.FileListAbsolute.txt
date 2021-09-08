@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\bin\Debug\netcoreapp3.1\Nested Loops - Lab01.exe
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\bin\Debug\netcoreapp3.1\Nested Loops - Lab01.deps.json
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\bin\Debug\netcoreapp3.1\Nested Loops - Lab01.runtimeconfig.json
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\bin\Debug\netcoreapp3.1\Nested Loops - Lab01.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\bin\Debug\netcoreapp3.1\Nested Loops - Lab01.dll
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\bin\Debug\netcoreapp3.1\Nested Loops - Lab01.pdb
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.dll
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.pdb
+C:\Users\ray_m\source\repos\Nested Loops - Lab01\Nested Loops - Lab01\obj\Debug\netcoreapp3.1\Nested Loops - Lab01.genruntimeconfig.cache

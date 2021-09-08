@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\bin\Debug\netcoreapp3.1\realPreExam05.exe
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\bin\Debug\netcoreapp3.1\realPreExam05.deps.json
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\bin\Debug\netcoreapp3.1\realPreExam05.runtimeconfig.json
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\bin\Debug\netcoreapp3.1\realPreExam05.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\bin\Debug\netcoreapp3.1\realPreExam05.dll
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\bin\Debug\netcoreapp3.1\realPreExam05.pdb
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.dll
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.pdb
+C:\Users\ray_m\source\repos\realPreExam01\realPreExam05\obj\Debug\netcoreapp3.1\realPreExam05.genruntimeconfig.cache

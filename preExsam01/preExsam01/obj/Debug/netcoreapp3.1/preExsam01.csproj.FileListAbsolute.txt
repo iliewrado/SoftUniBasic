@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\bin\Debug\netcoreapp3.1\preExsam01.exe
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\bin\Debug\netcoreapp3.1\preExsam01.deps.json
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\bin\Debug\netcoreapp3.1\preExsam01.runtimeconfig.json
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\bin\Debug\netcoreapp3.1\preExsam01.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\bin\Debug\netcoreapp3.1\preExsam01.dll
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\bin\Debug\netcoreapp3.1\preExsam01.pdb
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.dll
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.pdb
+C:\Users\ray_m\source\repos\preExsam01\preExsam01\obj\Debug\netcoreapp3.1\preExsam01.genruntimeconfig.cache

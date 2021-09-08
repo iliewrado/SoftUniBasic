@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\cinema\cinema\bin\Debug\netcoreapp3.1\cinema.exe
+C:\Users\ray_m\source\repos\cinema\cinema\bin\Debug\netcoreapp3.1\cinema.deps.json
+C:\Users\ray_m\source\repos\cinema\cinema\bin\Debug\netcoreapp3.1\cinema.runtimeconfig.json
+C:\Users\ray_m\source\repos\cinema\cinema\bin\Debug\netcoreapp3.1\cinema.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\cinema\cinema\bin\Debug\netcoreapp3.1\cinema.dll
+C:\Users\ray_m\source\repos\cinema\cinema\bin\Debug\netcoreapp3.1\cinema.pdb
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.dll
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.pdb
+C:\Users\ray_m\source\repos\cinema\cinema\obj\Debug\netcoreapp3.1\cinema.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\basicExam\solution04\bin\Debug\netcoreapp3.1\solution04.exe
+C:\Users\ray_m\source\repos\basicExam\solution04\bin\Debug\netcoreapp3.1\solution04.deps.json
+C:\Users\ray_m\source\repos\basicExam\solution04\bin\Debug\netcoreapp3.1\solution04.runtimeconfig.json
+C:\Users\ray_m\source\repos\basicExam\solution04\bin\Debug\netcoreapp3.1\solution04.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\basicExam\solution04\bin\Debug\netcoreapp3.1\solution04.dll
+C:\Users\ray_m\source\repos\basicExam\solution04\bin\Debug\netcoreapp3.1\solution04.pdb
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.dll
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.pdb
+C:\Users\ray_m\source\repos\basicExam\solution04\obj\Debug\netcoreapp3.1\solution04.genruntimeconfig.cache

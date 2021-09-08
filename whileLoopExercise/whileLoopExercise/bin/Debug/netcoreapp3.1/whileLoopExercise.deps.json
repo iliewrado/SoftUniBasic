@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "whileLoopExercise/1.0.0": {
+        "dependencies": {
+          "walking": "1.0.0"
+        },
+        "runtime": {
+          "whileLoopExercise.dll": {}
+        }
+      },
+      "walking/1.0.0": {
+        "runtime": {
+          "walking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "whileLoopExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "walking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

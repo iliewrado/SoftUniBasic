@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\bin\Debug\netcoreapp3.1\walking.exe
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\bin\Debug\netcoreapp3.1\walking.deps.json
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\bin\Debug\netcoreapp3.1\walking.runtimeconfig.json
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\bin\Debug\netcoreapp3.1\walking.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\bin\Debug\netcoreapp3.1\walking.dll
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\bin\Debug\netcoreapp3.1\walking.pdb
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.dll
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.pdb
+C:\Users\ray_m\source\repos\whileLoopExercise\walking\obj\Debug\netcoreapp3.1\walking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\loopLab\loopLab\bin\Debug\netcoreapp3.1\loopLab.exe
+C:\Users\ray_m\source\repos\loopLab\loopLab\bin\Debug\netcoreapp3.1\loopLab.deps.json
+C:\Users\ray_m\source\repos\loopLab\loopLab\bin\Debug\netcoreapp3.1\loopLab.runtimeconfig.json
+C:\Users\ray_m\source\repos\loopLab\loopLab\bin\Debug\netcoreapp3.1\loopLab.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\loopLab\loopLab\bin\Debug\netcoreapp3.1\loopLab.dll
+C:\Users\ray_m\source\repos\loopLab\loopLab\bin\Debug\netcoreapp3.1\loopLab.pdb
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.dll
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.pdb
+C:\Users\ray_m\source\repos\loopLab\loopLab\obj\Debug\netcoreapp3.1\loopLab.genruntimeconfig.cache
