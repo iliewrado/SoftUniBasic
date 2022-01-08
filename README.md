@@ -1,2 +1,0 @@
-# SoftUniBasic
-C# SoftUni Basic
